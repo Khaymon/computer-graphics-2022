@@ -1,13 +1,13 @@
 # Домашние работы компьютерной графике ФПМИ МФТИ
+## Ссылки
+- [Сайт с туториалами](http://www.opengl-tutorial.org/ru/)
+## Домашняя работа 1
 <p float="left" align="center">
   <img src="https://github.com/Khaymon/mipt-2022-computer-graphics/blob/master/homework1/triangles/Triangles.png" width="250" height="250" />
   <img src="https://github.com/Khaymon/mipt-2022-computer-graphics/blob/camera_movement/homework1/camera_movement/Triangles.gif" width="250" height="250" />
   <img src="https://github.com/Khaymon/mipt-2022-computer-graphics/blob/master/homework1/instead_of_cube/T.gif" width="250" height="250" />
 </p>  
 
-## Ссылки
-- [Сайт с туториалами](http://www.opengl-tutorial.org/ru/)
-## Домашняя работа 1
 1. Запустить код уроков, проверить, что все работает, научиться создавать исполняемые файлы
 2. Используя два разных шейдера, нарисовать 2 пересекающихся треугольника разных цветов с альфа-каналом (полупрозрачных), вершины которых не находятся на краях экрана
 3. Добавить камеру в сцену, поиграться с функцией LookAt. Важно! После этого создать простой аналог анимационного фильма, где камера кружится вокруг тех двух треугольников, захардкодить её движение (не использовать ввод с мыши и клавиатуры)  (на ваше усмотрение, по какой траектории движется камера, какая задержка между кадрами, сколько кадров и т.п.)
