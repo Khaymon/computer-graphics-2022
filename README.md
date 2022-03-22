@@ -1,5 +1,6 @@
 # Домашние работы компьютерной графике ФПМИ МФТИ
 <p float="left" align="center">
+  <img src="https://github.com/Khaymon/mipt-2022-computer-graphics/blob/master/homework1/triangles/Triangles.png" width="250" height="250" />
   <img src="https://github.com/Khaymon/mipt-2022-computer-graphics/blob/camera_movement/homework1/camera_movement/Triangles.gif" width="250" height="250" />
   <img src="https://github.com/Khaymon/mipt-2022-computer-graphics/blob/master/homework1/instead_of_cube/T.gif" width="250" height="250" />
 </p>  
