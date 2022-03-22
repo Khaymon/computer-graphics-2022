@@ -1,4 +1,4 @@
-# Домашние работы по курсу компьютерной графики МФТИ
+# Домашние работы компьютерной графике ФПМИ МФТИ
 <img src="https://github.com/Khaymon/mipt-2022-computer-graphics/blob/camera_movement/homework1/camera_movement/Triangles.gif" width="1000" height="500" />  
 
 ## Ссылки
