@@ -1,6 +1,7 @@
 # Домашние работы компьютерной графике ФПМИ МФТИ
-<p align="center">
-  <img src="https://github.com/Khaymon/mipt-2022-computer-graphics/blob/camera_movement/homework1/camera_movement/Triangles.gif" width="700" height="350" />  
+<p float="left" align="center">
+  <img src="https://github.com/Khaymon/mipt-2022-computer-graphics/blob/camera_movement/homework1/camera_movement/Triangles.gif" width="450" height="450" />
+  <img src="https://github.com/Khaymon/mipt-2022-computer-graphics/blob/master/homework1/instead_of_cube/T.gif" width="450" height="450" />
 </p>  
 
 ## Ссылки
@@ -20,4 +21,5 @@
 ### TODO
 - [X] Треугольники
 - [X] Движение камеры
-- [ ] Что-то вместо куба
+- [X] Что-то вместо куба
+- [ ] Задачи по лекциям
