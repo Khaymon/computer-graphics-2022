@@ -1,7 +1,8 @@
 # Домашние работы компьютерной графике ФПМИ МФТИ
 <p align="center">
   <img src="https://github.com/Khaymon/mipt-2022-computer-graphics/blob/camera_movement/homework1/camera_movement/Triangles.gif" width="700" height="350" />  
-</p>
+</p>  
+
 ## Ссылки
 - [Сайт с туториалами](http://www.opengl-tutorial.org/ru/)
 ## Домашняя работа 1
